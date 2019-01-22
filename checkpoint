@@ -1,0 +1,2 @@
+model_checkpoint_path: "lenet_changes__data_augment_bright_salt and pepper_3"
+all_model_checkpoint_paths: "lenet_changes__data_augment_bright_salt and pepper_3"
